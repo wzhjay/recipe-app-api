@@ -1,7 +1,6 @@
 """
 Tests for models.
 """
-from lzma import is_check_supported
 from django.test import TestCase
 from django.contrib.auth import get_user_model
 
